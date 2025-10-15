@@ -1,4 +1,4 @@
-# 🐱‍👤Eduardo Daniel 
+# Eduardo Daniel 
 
 **`Desenvolvedor FullStack`**
 
