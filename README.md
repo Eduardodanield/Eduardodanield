@@ -1,6 +1,12 @@
-# Eduardo Daniel 
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <h3 align="center">⌨️Eduardo Daniel</h3>
+</p>
 
-**`Desenvolvedor FullStack`**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Sejam+Bem+vindos!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 
 Me chamo Eduardo Daniel, tenho 31 anos e sou natural de São Paulo. Concluí minha primeira graduação em Administração em 2023 pela UNINOVE, e atualmente estou cursando Ciência da Computação na mesma instituição.
 
