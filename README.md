@@ -1,13 +1,12 @@
-<!-- Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Olá,+sou+Eduardo+Daniel!+👋;Desenvolvedor+Web+%26+Mobile;PHP+|+Laravel+|+React+|+Next.js;Bem+vindos+ao+meu+perfil!&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+sou+Eduardo+Daniel!+%F0%9F%91%8B;Desenvolvedor+Web+%26+Mobile;PHP+%7C+Laravel+%7C+React+%7C+Next.js;Bem+vindos+ao+meu+perfil!&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 
 </div>
 
 ---
 
-Tenho 31 anos e sou natural de **São Paulo**. Concluí minha graduação em **Administração em 2023** pela UNINOVE, e atualmente curso **Ciência da Computação** na mesma instituição.
+Tenho 32 anos e sou natural de **São Paulo**. Concluí minha graduação em **Administração em 2023** pela UNINOVE, e atualmente curso **Ciência da Computação** na mesma instituição.
 
 Sou entusiasta por tecnologia e sempre busco entender como as coisas funcionam por trás dos sistemas. Meu interesse por desenvolvimento web e mobile cresceu com o tempo, e hoje dedico parte da minha rotina ao aprendizado contínuo de linguagens, frameworks e boas práticas de desenvolvimento.
 
@@ -58,7 +57,6 @@ Sou entusiasta por tecnologia e sempre busco entender como as coisas funcionam p
 
 ## 📊 Estatísticas
 
-> ⚠️ **Nota:** O serviço público `github-readme-stats` está com instabilidade. Para corrigir definitivamente, faça seu próprio deploy gratuito: [github-readme-stats no Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) e substitua a URL abaixo pela sua.
 
 <p align="left">
   <img
