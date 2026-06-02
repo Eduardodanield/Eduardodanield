@@ -85,11 +85,3 @@ Sou entusiasta por tecnologia e sempre busco entender como as coisas funcionam p
 
 ---
 
-## 🏆 Troféus
-
-<p align="left">
-  <img
-    alt="GitHub Trophies"
-    src="https://github-profile-trophy.vercel.app/?username=Eduardodanield&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4"
-  />
-</p>
